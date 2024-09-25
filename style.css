@@ -131,7 +131,6 @@ button:active {
     padding: 10px 20px 10px 20px;
     font-size: 22px;
     text-shadow: 0 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-    background-image: url(../img/button/btn-blue-left.png), url(../img/button/btn-blue-right.png), url(../img/button/btn-blue-center.png);
     background-color: #67BBFF;
     margin-bottom: 5px;
     -webkit-box-shadow: 0 3px 0 0 rgba(0, 0, 0, .2);
@@ -145,7 +144,7 @@ button:active {
     padding: 10px 20px 10px 20px;
     font-size: 22px;
     text-shadow: 0 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-    background-image: url(../img/button/btn-generate-left.png), url(../img/button/btn-generate-right.png), url(../img/button/btn-generate-center.png);
+    background-image: url(    background-image: url(https://i.postimg.cc/0jQHnRN7/btn-blue-left.png), url(https://i.postimg.cc/0jQHnRN7/btn-blue-left.png), url(https://i.postimg.cc/nhQgNJGk/btn-blue-center.png);), url(../img/button/btn-generate-right.png), url(../img/button/btn-generate-center.png);
     background-color: #67BBFF;
     -webkit-box-shadow: 0 3px 0 0 rgba(0, 0, 0, .2);
     -moz-box-shadow: 0 3px 0 0 rgba(0, 0, 0, .2);
@@ -166,7 +165,7 @@ button:active {
 	padding: 10px 20px 10px 20px;
 	font-size: 22px;
 	text-shadow: 0 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-    background-image: url(../img/button/btn-blue-left.png), url(../img/button/btn-blue-right.png), url(../img/button/btn-blue-center.png);
+    background-image: url(https://i.postimg.cc/0jQHnRN7/btn-blue-left.png), url(https://i.postimg.cc/T27swwk0/btn-blue-right.png), url(https://i.postimg.cc/nhQgNJGk/btn-blue-center.png);
     margin-bottom: 5px;
     -webkit-box-shadow: 0 3px 0 0 rgba(0, 0, 0, .2);
     -moz-box-shadow: 0 3px 0 0 rgba(0, 0, 0, .2);
